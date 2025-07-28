@@ -27,7 +27,7 @@ A modern and responsive **Bike Store Landing Page** built using **HTML** and **T
 
 ## 📸 Screenshot
 
-<img src="https://i.postimg.cc/h4LTrzMw/bike-zone-screenshot.png" alt="Bike Zone Screenshot" width="1000"/>
+<img src="https://ik.imagekit.io/yqnbhdlo4/Img/screencapture-127-0-0-1-5500-index-html-2025-07-26-19_21_21.png?updatedAt=1753683791822" alt="Bike Zone Screenshot" width="1000"/>
 
 
 ---
