@@ -30,3 +30,11 @@ A modern and responsive **Bike Store Landing Page** built using **HTML** and **T
 <img src="https://i.postimg.cc/h4LTrzMw/bike-zone-screenshot.png" alt="Bike Zone Screenshot" width="1000"/>
 
 
+---
+
+## 🚀 How to Use Locally
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/amdadislam01/Bike-zone-shop.git
+
